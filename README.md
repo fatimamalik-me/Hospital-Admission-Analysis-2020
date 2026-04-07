@@ -28,3 +28,5 @@ can be integrated through data mining to support public health
 decision-making. The findings may guide targeted intervention
 strategies and improve mental health service delivery across New
 York City communities.
+
+Read the paper here: https://drive.google.com/file/d/1_PIu7tM29r0Ya3yyZzwF6LiUdTl-zVIW/view
